@@ -1,0 +1,14 @@
+.altalta{
+    
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+       
+}
+.position{
+        position:absolute ;
+
+        top: 550px;
+}
